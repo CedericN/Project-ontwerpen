@@ -11,4 +11,4 @@
  
  Hierdoor zijn het in totaal 8 aparte bordjes met 4 verschillende bordjes. 
  
- De regelaars (bas, middel, trebbel, fader en pot-pan), de power input, de hoofd schakelaar en de transformator worden met (afgeschermde en juiste kabeltjes) verbonden met de bordjes.
+ De regelaars (bas, middel, trebbel, fader en pot-pan), de power input, de hoofd schakelaar en de transformator worden met afgeschermde en juiste kabeltjes verbonden met de bordjes.
