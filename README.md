@@ -5,7 +5,7 @@
  
  De xlr ingang is de micro ingang en daar zijn dus 4 bordjes voor nodig.
  
- Het summing circuit  is voor de L/R uitgan en daar is er maar 1 bordje van nodig.
+ Het summing circuit  is voor de L/R uitgang en daar is er maar 1 bordje van nodig.
  
  Het power bordje moet ook maar 1 keer.
  
